@@ -10,7 +10,7 @@ lot to explore. Keep in mind this content is currently only accessible in surviv
 
 # Installation
 
-## Mod download link: [ArchitectsLibraryDemo-0.0.2.zip](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/releases/download/AL-0.0.2/ArchitectsLibraryDemo-0.0.2.zip)
+## Mod download link: [ArchitectsLibraryDemo-0.0.3.zip](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/releases/download/AL-0.0.3/ArchitectsLibraryDemo-0.0.3.zip)
 
 PLEASE ENSURE YOU INSTALL ALL DEPENDENCIES FIRST:
 
